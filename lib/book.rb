@@ -23,6 +23,7 @@ class Book
   include(genre)
 end
 end
+end
 
 
 end
